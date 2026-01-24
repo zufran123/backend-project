@@ -2,11 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/FastAPI-Backend-green.svg)](https://fastapi.tiangolo.com/)
-[![ORM](https://img.shields.io/badge/ORM-SQLAlchemy-orange.svg)](https://www.sqlalchemy.org/)
-[![Stars](https://img.shields.io/github/stars/zufran123/<your-repo-name>.svg?style=social)](https://github.com/zufran123/<your-repo-name>/stargazers)
-[![Forks](https://img.shields.io/github/forks/zufran123/<your-repo-name>.svg?style=social)](https://github.com/zufran123/<your-repo-name>/network/members)
-[![Last Commit](https://img.shields.io/github/last-commit/zufran123/<your-repo-name>.svg)](https://github.com/zufran123/<your-repo-name>/commits/main)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zufran123.fastapi-backend)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-orange.svg)](https://www.sqlalchemy.org/)
 
 ---
 
